@@ -1,0 +1,243 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.logo {
+    width: 40px;
+    height: 35px;
+}
+
+#navItem1 {
+    color: #323f4b;
+    font-family: "Roboto";
+}
+
+#navItem2 {
+    color: #323f4b;
+    font-family: "Roboto";
+}
+
+#navItem3 {
+    color: #323f4b;
+    font-family: "Roboto";
+}
+
+#navItem4 {
+    color: #323f4b;
+    font-family: "Roboto";
+}
+
+#navItem5 {
+    color: #323f4b;
+    font-family: "Roboto";
+}
+
+.home-section-bg-container {
+    background-image: url("https://img.freepik.com/premium-photo/minimalist-interior-modern-living-room-3-d-rendering_937503-3557.jpg?size=626&ext=jpg&ga=GA1.1.1413502914.1696377600&semt=ais");
+    height: 100vh;
+    background-size: cover;
+}
+
+.home-section-heading {
+    color: white;
+    font-family: "Roboto";
+    font-size: 47px;
+    font-weight: 300;
+}
+
+.home-section-caption {
+    color: #FFFBDA;
+    font-family: "Roboto";
+    font-size: 16px;
+    font-weight: 300;
+}
+
+.home-section-custom-button {
+    color: white;
+    background-color: #AF8260;
+    width: 130px;
+    height: 45px;
+    border-width: 0;
+    border-radius: 8px;
+    margin-right: 10px;
+}
+
+.about-us-section {
+    background-color: #f9fbfe;
+}
+
+.about-us-section-img {
+    height: 40vh;
+    width: 290px;
+    border-radius: 10px;
+}
+
+.about-us-section-heading {
+    color: #183b56;
+    font-family: "Roboto";
+    font-size: 26px;
+    font-weight: 700;
+}
+
+.about-us-section-description {
+    color: #5a7184;
+    font-family: "Roboto";
+    font-size: 16px;
+}
+
+.custom-button {
+    color: white;
+    background-color: #A79277;
+    width: 130px;
+    height: 45px;
+    border-width: 0;
+    border-radius: 8px;
+    margin-right: 10px;
+}
+
+.our-design-section {
+    background-color: #f9fbfe;
+}
+
+.our-design-section-heading {
+    color: #183b56;
+    font-family: "Roboto";
+    font-size: 28px;
+    font-weight: 700;
+}
+
+.our-design-section-description {
+    color: #5a7184;
+    font-family: "Roboto";
+    font-size: 16px;
+}
+
+.our-design-card {
+    text-align: center;
+    background-color: white;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #e5eaf4;
+    border-radius: 16px;
+}
+
+.our-design-card-image {
+
+    height: 185px;
+}
+
+.our-design-card-title {
+    color: #323f4b;
+    font-family: "Roboto";
+    font-size: 22px;
+    font-weight: 500;
+}
+
+.our-design-card-description {
+    color: #7b8794;
+    font-family: "Roboto";
+    font-size: 16px;
+}
+
+.our-design-card-button {
+    color: #994D1C;
+    background-color: transparent;
+    width: 120px;
+    height: 40px;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #994D1C;
+    border-radius: 8px;
+}
+
+.projects-menu-section {
+    background-color: white;
+}
+
+.projects-section-heading {
+    color: #183b56;
+    font-family: "Roboto";
+    font-size: 28px;
+    font-weight: 700;
+}
+
+.projects-item-image {
+    border-radius: 16px;
+    height: 170px;
+}
+
+.projects-card-title {
+    color: #323f4b;
+    font-family: "Roboto";
+    font-size: 18px;
+    font-weight: 500;
+    margin-top: 24px;
+}
+
+.projects-item-link {
+    color: #d0b200;
+    font-family: "Roboto";
+    font-size: 14px;
+    font-weight: 500;
+}
+
+.projects-item-card {
+    border-radius: 16px;
+}
+
+.delivery-and-payment-section {
+    background-color: white;
+}
+
+.delivery-and-payment-section-img {
+    width: 270px;
+}
+
+.delivery-and-payment-section-heading {
+    color: #183b56;
+    font-family: "Roboto";
+    font-size: 28px;
+    font-weight: 700;
+}
+
+.delivery-and-payment-section-description {
+    color: #5a7184;
+    font-family: "Roboto";
+    font-size: 16px;
+}
+
+.payment-card-img {
+    width: 50px;
+    height: 50px;
+    margin-right: 28px;
+}
+
+.delivery-and-payment-custom-button {
+    color: white;
+    background-color: #994D1C;
+    width: 120px;
+    height: 40px;
+    border-width: 0;
+    border-radius: 8px;
+    margin-right: 10px;
+}
+.footer-section {
+    background-color: #0d2436;
+}
+
+.footer-section-mail-id {
+    color: #959ead;
+    font-family: "Roboto";
+    font-weight: bold;
+    font-size: 16px;
+    margin-top: 20px;
+}
+
+.footer-section-address {
+    color: #959ead;
+    font-family: "Roboto";
+    font-size: 14px;
+}
+
+.footer-image{
+    height: 250px;
+    width: 250px;
+}
